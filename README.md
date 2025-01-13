@@ -150,6 +150,8 @@ python3 bot.py
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Drago991"><img src="https://avatars.githubusercontent.com/u/69932259?v=4?s=100" width="100px;" alt="Damin.du"/><br /><sub><b>Damin.du</b></sub></a><br /><a href="https://github.com/kalanakt/All-Url-Uploader/commits?author=Drago991" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://t.me/sudodotsh"><img src="https://avatars.githubusercontent.com/u/84050503?v=4?s=100" width="100px;" alt="Avika Trivedi"/><br /><sub><b>Avika Trivedi</b></sub></a><br /><a href="https://github.com/kalanakt/All-Url-Uploader/commits?author=AvikaTrivedi" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://telegram.me/mrstrange_genuine"><img src="https://avatars.githubusercontent.com/u/83153745?v=4?s=100" width="100px;" alt="Parthiv Katpara "/><br /><sub><b>Parthiv Katpara </b></sub></a><br /><a href="https://github.com/kalanakt/All-Url-Uploader/commits?author=satyanandatripathi" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
@@ -160,7 +162,13 @@ python3 bot.py
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 <p>If you have a this bot-related bug fix/component/tool/idea, add it with a <a href="https://github.com/kalanakt/All-Url-Uploader/pulls" target="_blank" rel="noopener noreferrer">pull request.</a> Thank you to all the people who contributed to this project!</p>
-<br>
+<a href="https:///pr.new/kalanakt/All-Url-Uploader">
+  <img
+    alt="Open in Codeflow"
+    src="https://developer.stackblitz.com/img/open_in_codeflow.svg"
+  />
+</a>
+<br />
 <h1>💖 Thanks To</h1>
 
 <p>This bot is developed by using many Github open source projects.</p>
